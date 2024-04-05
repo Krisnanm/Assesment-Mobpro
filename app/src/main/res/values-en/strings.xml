@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CurrenSee</string>
+    <string name="app_intro">CurrenSee, you can convert Indonesian currency (IDR) to United States (USD), or vice versa. Note: 1 USD = 15,896 IDR, as of April 4 2024</string>
+    <string name="nilai">Amount</string>
+    <string name="idr">IDR to USD</string>
+    <string name="usd">USD to IDR</string>
+    <string name="hitung">Count</string>
+    <string name="input_invalid">Can\'t be empty!</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Conversion Result : %1$s</string>
+    <string name="tentang_aplikasi">Currencies</string>
+    <string name="deskripsi">This below are the currency values of several countries. The currency values below are based on April 4 2024 at 22.51 WIB.</string>
+    <string name="kembali">Back</string>
+</resources>
